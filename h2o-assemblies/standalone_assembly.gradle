@@ -2,8 +2,8 @@ apply plugin: 'com.github.johnrengelman.shadow'
 apply plugin: 'java-library'
 apply plugin: 'com.github.hierynomus.license'
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 21
+targetCompatibility = 21
 
 
 // Exclude unwanted dependencies

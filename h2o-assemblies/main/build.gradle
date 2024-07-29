@@ -94,7 +94,7 @@ dependencies {
 shadowJar {
   zip64 true
   mergeServiceFiles()
-  classifier = ''
+  archiveClassifier = ''
   exclude 'META-INF/*.DSA'
   exclude 'META-INF/*.SF'
   exclude 'synchronize.properties'
