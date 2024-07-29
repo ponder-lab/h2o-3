@@ -1,7 +1,7 @@
 description = "H2O GenModel Deepwater Extension"
 
-sourceCompatibility = 1.7
-targetCompatibility = 1.7
+sourceCompatibility = 21
+targetCompatibility = 21
 
 dependencies {
   api project(":h2o-genmodel")
